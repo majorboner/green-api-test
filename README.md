@@ -3,6 +3,13 @@
 Веб-интерфейс для отправки и получения текстовых сообщений в мессенджерах
 через сервис [GREEN-API](https://green-api.com/max).
 
+## Локальный запуск проекта
+
+```bash
+npm i
+npm run dev
+```
+
 ## Стек
 
 - React 18 + TypeScript
@@ -15,8 +22,3 @@
 - npm (или pnpm / yarn)
 - Аккаунт GREEN-API с авторизованным инстансом 
 
-## Запуск
-
-```bash
-npm i
-npm run dev
