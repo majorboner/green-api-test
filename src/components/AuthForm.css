@@ -1,0 +1,19 @@
+.AuthForm form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.AuthForm button {
+    padding: 8px 24px;
+    width: fit-content;
+}
+
+.field {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
